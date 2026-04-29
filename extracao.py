@@ -6,8 +6,8 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 
-API_KEY = "87e30f7d8667f8d87950a37bd8e16352"
-SHEET_URL = "https://docs.google.com/spreadsheets/d/1WEBz5hjQ4GdECunh5ekRSUpGqowbZPvwX0kyRxBY3xg/edit"
+API_KEY = "vou tirar a api por segurança, sla vai que kkkk"
+SHEET_URL = "link da planilha"
 
 
 # Extraindo dados da TMBD (lembrar de puxar poucas páginas)
