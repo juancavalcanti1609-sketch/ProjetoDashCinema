@@ -155,4 +155,4 @@ df_generos = tratar_generos(df)
 
 enviar_sheets(df, df_generos)
 
-print("PIPELINE FINALIZADO ✅")
+print("PIPELINE FINALIZADO ")
