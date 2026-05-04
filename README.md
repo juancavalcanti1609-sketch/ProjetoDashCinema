@@ -106,8 +106,10 @@ Características:
 
 ## --> Como Executar
 
-1. Clone o repositório
+
 ```bash
+1. Clone o repositório
+
 git clone https://github.com/juancavalcanti1609-sketch/ProjetoDashCinema.git
 cd ProjetoDashCinema
 
