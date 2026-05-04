@@ -108,8 +108,8 @@ Características:
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/tmdb-movie-data-pipeline.git
-cd tmdb-movie-data-pipeline
+git clone https://github.com/juancavalcanti1609-sketch/ProjetoDashCinema.git
+cd ProjetoDashCinema
 
 2. Instale as dependências
 pip install -r requirements.txt
